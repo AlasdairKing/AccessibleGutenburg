@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<books>
+	<book id="Default book">
+		<title>A Christmas Carol</title>
+		<author>Dickens, Charles</author>
+		<filename>46-8.txt</filename>
+		<cursorPos>1</cursorPos>
+	</book>
+	<book><title>Frankenstein (English) </title><filename>frank15.txt</filename><author>Shelley, Mary Wollstonecraft, 1797-1851</author><cursorPos>374782</cursorPos></book><book><title>Jane Eyre (English) </title><filename>janey11.txt</filename><author>Brontë, Charlotte, 1816-1855</author><cursorPos>1000</cursorPos></book></books>

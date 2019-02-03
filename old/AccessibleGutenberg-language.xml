@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<!-- Language file. Edit in a Unicode/UTF-8 text editor only. Make a backup copy first. -->
+<language version="3">
+	<languages>
+		<language id="en-gb" name="English - United Kingdom" font="Arial" charset="0" localeID="2057">
+			<localname>English</localname>
+		</language>
+		<language id="fr" name="French" font="Arial" charset="0" localeID="1036">
+			<localname>Français</localname>
+		</language>
+		<language id="pl" name="Polish" font="Arial CE" charset="238" localeID="1045">
+			<localname>Polish</localname>
+		</language>
+		<language id="cz" name="Czech" font="Arial CE" charset="238" localeID="1029">
+			<localname>Èeština</localname>
+		</language>
+		<language id="es" name="Spanish" font="Arial" charset="0" localeID="1034">
+			<localname>Español</localname>
+		</language>
+		<language id="nl" name="Dutch" font="Arial" charset="0" localeID="1043">
+			<localname>Nederlands</localname>
+		</language>
+		<language id="fi" name="Finnish" font="Arial" charset="0" localeID="1035">
+			<localname>Suomi</localname>
+		</language>
+		<language id="ru" name="Russian" font="Arial" charset="204" localeID="1049">
+			<localname>Русский</localname>
+		</language>
+	</languages>
+	<contents>
+	</contents>
+</language>

@@ -1,0 +1,3 @@
+Line 76: Class ComctlLib.StatusBar of control staMain was not a loaded control class.
+Line 104: Class SHDocVwCtl.WebBrowser of control webBrowser was not a loaded control class.
+Line 130: Class MSComDlg.CommonDialog of control cdlg was not a loaded control class.

@@ -1,0 +1,26 @@
+Accessible Gutenberg Manual
+
+Welcome to Accessible Gutenberg. This lets you access the free public domain books proved by Project Gutenberg in an easy and accessible format.
+
+Downloading new books from the catalogue
+When the program starts you are put in the catalogue list. This lets you find a book. For example, if you are looking for Jane Austen's Sense and Sensibility, you can search by author (Austen) or title (Sense and Sensibility). Use the cursor keys to choose and return to select options, starting with a list of authors (A to Z) or titles (A to Z). You may have to wait while the program talks to the Gutenberg site.
+When you eventually choose a book it will be downloaded and displayed: this may take a while for a large book.
+You can press Control and F to find a book in the list: this is helpful if you have a long list (e.g. all authors starting with A) and you want to find one entry (e.g. Austen, Jane).
+You can press Control and L to return to the catalogue, and press Escape to go to the top of the catalogue and start again.
+
+Reading books
+Books are displayed as plain text: use the cursor keys and page up and page down keys. Your position will be remembered in each book, even when you close the application or go to another book.
+You can press Control and B to return to the current book.
+
+Books already downloaded
+If you have downloaded a book it stays on your computer so you can access it at any time. Press Control and D to go to a list of downloaded books. Select one with the cursor keys and press Return to open the book where you last left it. You can sort the list by title (press Alt and T) or by author (press Alt and A). 
+If you want to delete a book from the list press the Delete key. You will be prompted to confirm it.
+
+Help and Legal
+You can try contacting support@webbie.org.uk for support and help. You may distribute Accessible Gutenberg within your entity (club, company, charity) but not publically (website). You may use Accessible Gutenberg for personal or business use for as long as you want.
+All the books are provided by the excellent Project Gutenberg at http://www.gutenberg.org. They can only provide public domain books out of copyright, and because of lobbying by rich commercial interests, this category of works is under relentless pressure. If you want more recent materials you will have to register for services available for blind people in your country or seek political change. This program may be illegal in your jurisdiction: on your own head be it. You can find the full Project Gutenberg legal text in the Help menu.
+
+
+
+
+
